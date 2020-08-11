@@ -2,18 +2,18 @@
 { "Iklan": [
         {
         "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=com.",
+        "link": "https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.akatsukiwallpaper",
         
-        "appid": "pub-3940256099942544",
-        "admobappid": "ca-app-pub-3940256099942544~3347511713",
-        "interid": "ca-app-pub-3940256099942544/1033173712",
-        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "appid": "pub-5239369363463652",
+        "admobappid": "ca-app-pub-5239369363463652~2654754470",
+        "interid": "ca-app-pub-5239369363463652/8837019442",
+        "nativeid": "ca-app-pub-5239369363463652/5346358813",
         
-        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
-        "judul_promote": "Promote App Example",
-        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
-        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-        "link_promote": "https://www.google.com/",
+        "icon_promote": "https://1.bp.blogspot.com/-UPygq1t1my8/XypzXHpcQhI/AAAAAAAAFMc/SNAjSXRyIg46w7M4N_nP_zC497gFzkPUwCLcBGAsYHQ/s512/Icon-WP.png",
+        "judul_promote": "break screen wallpaper hd",
+        "deskripsi_promote": "Download it now",
+        "gambar_promote": "https://1.bp.blogspot.com/-ch18bf_aFmo/XzKUUT1Ty3I/AAAAAAAAFNE/T5pSG-vKPrs1GaG7VfYJxCnOVwZLZAR7gCLcBGAsYHQ/s1334/Untitled-1.png",
+        "link_promote": "https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.brokescreenwallpaper",
         "status_promote": "0",
         
         "interval": 2,
@@ -46,15 +46,15 @@
   [ 
     {
     "id":1,
-    "judul":"Ludo King",
-    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    "judul":"screen broken wallpaper",
+    "image":"https://1.bp.blogspot.com/-UPygq1t1my8/XypzXHpcQhI/AAAAAAAAFMc/SNAjSXRyIg46w7M4N_nP_zC497gFzkPUwCLcBGAsYHQ/s512/Icon-WP.png",
+    "link":"https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.screenbrokenwallpaper"
   },
   {
     "id":2,
-    "judul":"Homescapes",
-    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    "judul":"Darkness Wallpaper",
+    "image":"https://1.bp.blogspot.com/-FfjOu0zMIQo/XypzaV0X-kI/AAAAAAAAFMg/vYAY_AoXmX8D4sIUIwAS9ODZRnWJC45gQCLcBGAsYHQ/s512/Icon-WP.png",
+    "link":"https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.darknesswallpaper"
   },
   {
     "id":3,
@@ -68,21 +68,9 @@
   "Categories": [
     {
       "id": 1,
-      "nama_cat": "Dragon Ball",
-      "gambar": "https://www.mainmain.id/uploads/post/2019/04/27/Dragon_ball_Super_Z.jpg"
+      "nama_cat": "akatsuki wallpaper",
+      "gambar": "https://1.bp.blogspot.com/-mXvY9A2njPs/XypzRlCsZFI/AAAAAAAAFMY/xq-fR5jyL5gsb9D9w6k9oEg0XZC9xfkNACLcBGAsYHQ/s512/Icon%2BAndro.png"
      
-    },
-    {
-      "id": 2,
-      "nama_cat": "Naruto",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/dVqITqcu9gJfpnWOgPEaAfol0eM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/653825/original/naruto-anime-naruto-33923256-1920-1080.jpg"
-    
-    },
-    {
-      "id": 3,
-      "nama_cat": "One Piece",
-      "gambar": "https://cdn.idntimes.com/content-images/duniaku/post/20200404/one-piece-sanji-zoro-jinbe-4690e6c5f37b3a36951f5dfa8dfd30c3_600x400.jpg"
-    
     }
   ],
 
