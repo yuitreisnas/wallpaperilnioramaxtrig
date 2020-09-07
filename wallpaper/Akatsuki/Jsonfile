@@ -1,28 +1,24 @@
-
 { "Iklan": [
         {
         "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.akatsukiwallpaper",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+      
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
         
-        "appid": "pub-5239369363463652",
-        "admobappid": "ca-app-pub-5239369363463652~2654754470",
-        "interid": "ca-app-pub-5239369363463652/8837019442",
-        "nativeid": "ca-app-pub-5239369363463652/5346358813",
-        
-        "icon_promote": "https://1.bp.blogspot.com/-UPygq1t1my8/XypzXHpcQhI/AAAAAAAAFMc/SNAjSXRyIg46w7M4N_nP_zC497gFzkPUwCLcBGAsYHQ/s512/Icon-WP.png",
-        "judul_promote": "break screen wallpaper hd",
-        "deskripsi_promote": "Download it now",
-        "gambar_promote": "https://1.bp.blogspot.com/-ch18bf_aFmo/XzKUUT1Ty3I/AAAAAAAAFNE/T5pSG-vKPrs1GaG7VfYJxCnOVwZLZAR7gCLcBGAsYHQ/s1334/Untitled-1.png",
-        "link_promote": "https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.brokescreenwallpaper",
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
         "status_promote": "0",
         
         "interval": 2,
-        "inter_splash":"1",
         "pengaturan_iklan":"1",
         
-        "fan_inter":"492061184855959_534746480587429",
-        "fan_banner_native":"492061184855959_534745970587480",
-        "fan_native":"492061184855959_492062094855868",
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_native":"981545408591412_1232226853523265",
         
         "inmobi_inter": 1476878485960,
         "inmobi_banner":1473189489298,
@@ -46,21 +42,21 @@
   [ 
     {
     "id":1,
-    "judul":"screen broken wallpaper",
-    "image":"https://1.bp.blogspot.com/-UPygq1t1my8/XypzXHpcQhI/AAAAAAAAFMc/SNAjSXRyIg46w7M4N_nP_zC497gFzkPUwCLcBGAsYHQ/s512/Icon-WP.png",
-    "link":"https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.screenbrokenwallpaper"
+    "judul":"Ludo King",
+    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
   },
   {
     "id":2,
-    "judul":"Darkness Wallpaper",
-    "image":"https://1.bp.blogspot.com/-FfjOu0zMIQo/XypzaV0X-kI/AAAAAAAAFMg/vYAY_AoXmX8D4sIUIwAS9ODZRnWJC45gQCLcBGAsYHQ/s512/Icon-WP.png",
-    "link":"https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.darknesswallpaper"
+    "judul":"Homescapes",
+    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
   },
   {
     "id":3,
-    "judul":"aesthetic wallpaper and lockscreen",
-    "image":"https://1.bp.blogspot.com/-xLPTfPG3_H4/Xypze4DCdnI/AAAAAAAAFMk/iUMVUvPnXRAnlvN6sXwz0S-I6Qm2J3DSwCLcBGAsYHQ/s0/Icon-WP.png",
-    "link":"https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.aestheticwallpaper"
+    "judul":"Minecraft",
+    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
   }
 
   ],
@@ -68,9 +64,21 @@
   "Categories": [
     {
       "id": 1,
-      "nama_cat": "akatsuki wallpaper",
-      "gambar": "https://1.bp.blogspot.com/-mXvY9A2njPs/XypzRlCsZFI/AAAAAAAAFMY/xq-fR5jyL5gsb9D9w6k9oEg0XZC9xfkNACLcBGAsYHQ/s512/Icon%2BAndro.png"
+      "nama_cat": "Dragon Ball",
+      "gambar": "https://www.mainmain.id/uploads/post/2019/04/27/Dragon_ball_Super_Z.jpg"
      
+    },
+    {
+      "id": 2,
+      "nama_cat": "Naruto",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/dVqITqcu9gJfpnWOgPEaAfol0eM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/653825/original/naruto-anime-naruto-33923256-1920-1080.jpg"
+    
+    },
+    {
+      "id": 3,
+      "nama_cat": "One Piece",
+      "gambar": "https://cdn.idntimes.com/content-images/duniaku/post/20200404/one-piece-sanji-zoro-jinbe-4690e6c5f37b3a36951f5dfa8dfd30c3_600x400.jpg"
+    
     }
   ],
 
@@ -79,563 +87,45 @@
     {
       "id":1,
       "id_wall":"001",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-6s15ACrmg88/XsWJru9wghI/AAAAAAAAAAU/LJymssArj4wQaSkKQZmcIGWv6uPd4gMigCK4BGAsYHg/s320/crop%2B%25281%2529.jpg"
+      "nama_cat": "One Piece",
+      "judul":"Roronoa Zoro",
+      "image":"https://i.pinimg.com/736x/65/c2/11/65c211c2e3d902c3293e3ad285a1eefb.jpg"
     },
     {
       "id":2,
       "id_wall":"002",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-Om1cfV0cpJg/XsWKf-Dru-I/AAAAAAAAAAo/D4cvbFYzUHQIIBuhtgsluZaM2dNnSM9xwCK4BGAsYHg/s320/crop%2B%25282%2529.jpg"
+      "nama_cat": "One Piece",
+      "judul":"Jinbei",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ae01b20-3764-4fd7-91b0-57fd27d63bb5/dcx73le-c3f839c5-079a-4126-81e4-90d058d2e7fa.jpg/v1/fill/w_1024,h_1463,q_75,strp/jinbe_wci_card_by_leegrove_by_leegrove_dcx73le-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ2MyIsInBhdGgiOiJcL2ZcLzJhZTAxYjIwLTM3NjQtNGZkNy05MWIwLTU3ZmQyN2Q2M2JiNVwvZGN4NzNsZS1jM2Y4MzljNS0wNzlhLTQxMjYtODFlNC05MGQwNThkMmU3ZmEuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tV0sqADZP93bqyibM1wcxzenXvrOcPXoEpsCDpfYDDA"
     },
       {
       "id":3,
       "id_wall":"003",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-b25Z6UPVios/XsWK1PznH3I/AAAAAAAAABI/AiXNG7HO6x4cATy70ijYyYsWpw8dXPZQACK4BGAsYHg/s320/crop%2B%25284%2529.jpg"
+      "nama_cat": "Dragon Ball",
+      "judul":"Vegeta",
+      "image":"https://i.pinimg.com/564x/dc/c3/fa/dcc3fada941866ddc4b7e2ec5aa315f9.jpg"
     },
     {
       "id":4,
       "id_wall":"004",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-Y_E58T-drDo/XsWLMeRkAmI/AAAAAAAAABk/hjPxvy4uol0MUqGRy7mt-lNUlwF56UKlACK4BGAsYHg/s320/crop%2B%25286%2529.jpg"
+      "nama_cat": "Dragon Ball",
+      "judul":"Kamen Shenin",
+      "image":"https://i.pinimg.com/564x/fc/98/77/fc9877fedfdb69e449e7fd9aae1230e6.jpg"
     }
     
     ,
       {
       "id":5,
       "id_wall":"005",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-U78NF-WtmkU/XsWLS1jCmYI/AAAAAAAAAB0/Ksw3T6AWUg0uLclLSt7Eob_g5kxpYoaXwCK4BGAsYHg/s320/crop%2B%25287%2529.jpg"
+      "nama_cat": "One Piece",
+      "judul":"Shank",
+      "image":"https://static.zerochan.net/Shanks.full.1917475.jpg"
     },
     {
       "id":6,
       "id_wall":"006",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/--ZIMxzGam38/XsWLCy8IN7I/AAAAAAAAABU/J-t_pVZf_qsn_ahRRkP7GUdYP3l2eX4RgCK4BGAsYHg/s320/crop%2B%25285%2529.jpg"
-    },
-     {
-      "id":7,
-      "id_wall":"007",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-U78NF-WtmkU/XsWLS1jCmYI/AAAAAAAAAB0/Ksw3T6AWUg0uLclLSt7Eob_g5kxpYoaXwCK4BGAsYHg/s320/crop%2B%25287%2529.jpg"
-    },
-     {
-      "id":8,
-      "id_wall":"008",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-Y_E58T-drDo/XsWLMeRkAmI/AAAAAAAAABk/hjPxvy4uol0MUqGRy7mt-lNUlwF56UKlACK4BGAsYHg/s320/crop%2B%25286%2529.jpg"
-    },
-     {
-      "id":9,
-      "id_wall":"009",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-U78NF-WtmkU/XsWLS1jCmYI/AAAAAAAAAB0/Ksw3T6AWUg0uLclLSt7Eob_g5kxpYoaXwCK4BGAsYHg/s320/crop%2B%25287%2529.jpg"
-    },
-     {
-      "id":10,
-      "id_wall":"010",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-NtLDsvmozUs/XsWLd0GEKBI/AAAAAAAAACE/OzSPxdOQFSMcnsrb4cfgWatMSgKZ7P92wCK4BGAsYHg/s320/crop%2B%25288%2529.jpg"
-    },
-     {
-      "id":11,
-      "id_wall":"011",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-hlA6sBL2K0M/XsWLsRucvoI/AAAAAAAAACo/yoGLpn85c84YV28bvllrVR3eykJrbUKuACK4BGAsYHg/s320/crop%2B%252810%2529.jpg"
-    },
-     {
-      "id":12,
-      "id_wall":"012",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-2kZPmdJkHh8/XsWL1Xg4WjI/AAAAAAAAAC0/Lx6ic2dd92ws18lob424KZIlBg1zA0WDQCK4BGAsYHg/s320/crop%2B%252812%2529.jpg"
-    },
-     {
-      "id":13,
-      "id_wall":"013",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-2vCn_YgPcUI/XsWMYAGbs5I/AAAAAAAAAEA/ftxHy-9hmAoFVqSVZYsMSyP93o2P49tEQCK4BGAsYHg/s320/crop%2B%252817%2529.jpg"
-    },
-     {
-      "id":14,
-      "id_wall":"014",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-cbjloxc45NY/XsWMHBSKt9I/AAAAAAAAADc/zNj1lz7WmpQcI5GcxorS7lL6tOeNJeRxACK4BGAsYHg/s320/crop%2B%252814%2529.jpg"
-    },
-     {
-      "id":15,
-      "id_wall":"015",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-M94QUAOKLAg/XsZ8CZZlTjI/AAAAAAAAAF4/VhM-XeoxQrsNgj4yCRgTc1ggXVTYK6hGQCK4BGAsYHg/s320/crop%2B%252823%2529.jpg"
-    },
-     {
-      "id":16,
-      "id_wall":"016",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-tSqmAAErdpg/XsZ8IHS8WWI/AAAAAAAAAGE/wXFcdqXEAQACMb8UnJ0LR6p7o5MziddCQCK4BGAsYHg/s320/crop%2B%252827%2529.jpg"
-    },
-     {
-      "id":17,
-      "id_wall":"017",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-G4sWIcu5d0Q/XsWMPyzcrgI/AAAAAAAAADw/RERQtHgIKZ4_0KFnsB2JVc3lafgrSQQmwCK4BGAsYHg/s320/crop%2B%252816%2529.jpg"
-    },
-     {
-      "id":18,
-      "id_wall":"018",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-IafUV6T34bE/XsWMw7ctegI/AAAAAAAAAEc/odGvtMqM3PQS1j3gpcrlkhsLLHFx7mfbgCK4BGAsYHg/s320/crop%2B%252818%2529.jpg"
-    },
-     {
-      "id":19,
-      "id_wall":"019",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-Gqf_oSdXS98/XsZ7q6BdeUI/AAAAAAAAAFY/St8maLxskkU8dwRR5Osn5ZtS31ViBExhwCK4BGAsYHg/s320/crop%2B%252821%2529.jpg"
-    },
-     {
-      "id":20,
-      "id_wall":"020",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-8Los08cDgH8/XsZ78I_EwhI/AAAAAAAAAFs/afWgWFaQcG4ivB2V2rfnBd4KV0TzbuT4gCK4BGAsYHg/s320/crop%2B%252822%2529.jpg"
-    },
-     {
-      "id":21,
-      "id_wall":"021",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-ONCt0amyL0I/XsZ8TExvP0I/AAAAAAAAAGY/ZmFPI2N1YQoYn1_5t3cQQ6umt1BQ8qVkgCK4BGAsYHg/s320/crop%2B%252832%2529.jpg"
-    },
-     {
-      "id":22,
-      "id_wall":"022",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-Tgd3Y8T7CYM/XsZ8ZfRk2eI/AAAAAAAAAGo/d3utIxQLXzMO28BIk1ezMnkCr-Aediy1QCK4BGAsYHg/s320/crop%2B%252833%2529.jpg"
-    },
-     {
-      "id":23,
-      "id_wall":"023",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-cFMYNbfDHsU/XsZ802sFywI/AAAAAAAAAHY/UkcCXCJhtxMqrinnQNB-pL6ObFKXP8EaACK4BGAsYHg/s320/crop%2B%252838%2529.jpg"
-    },
-     {
-      "id":24,
-      "id_wall":"024",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-7OpruULu4fw/XsZ88D_obtI/AAAAAAAAAHk/XfTIFLOTXQc4b2wuIbZRiw3Q9LHsi5G3ACK4BGAsYHg/s320/crop%2B%252840%2529.jpg"
-    },
-     {
-      "id":25,
-      "id_wall":"025",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-cFMYNbfDHsU/XsZ802sFywI/AAAAAAAAAHY/UkcCXCJhtxMqrinnQNB-pL6ObFKXP8EaACK4BGAsYHg/s320/crop%2B%252838%2529.jpg"
-    },
-     {
-      "id":26,
-      "id_wall":"026",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-j7pt2HyNpGo/XsZ8t_X0XsI/AAAAAAAAAHI/fMUB7oy7tOg5Jv2XWG1-f6Ly_DaFiqNNACK4BGAsYHg/s320/crop%2B%252835%2529.jpg"
-    },
-     {
-      "id":27,
-      "id_wall":"027",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-zfG9Vx7M94o/XsZ8i8X_56I/AAAAAAAAAG4/04KuFejKCNUtEDruKWfs239VfYfLlINoQCK4BGAsYHg/s320/crop%2B%252834%2529.jpg"
-    },
-     {
-      "id":28,
-      "id_wall":"028",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-Tgd3Y8T7CYM/XsZ8ZfRk2eI/AAAAAAAAAGo/d3utIxQLXzMO28BIk1ezMnkCr-Aediy1QCK4BGAsYHg/s320/crop%2B%252833%2529.jpg"
-    },
-     {
-      "id":29,
-      "id_wall":"029",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-DYAxqJusPFw/XsZ9zL1xm3I/AAAAAAAAAJQ/_6N8Mwiz6MYntSzqmvyklKWxuruToGF-QCK4BGAsYHg/s320/crop%2B%252845%2529.jpg"
-    },
-     {
-      "id":30,
-      "id_wall":"030",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-XC7xJQFbrYA/XsZ9cnz1ehI/AAAAAAAAAIw/E_VZnt8Hhws4K9NezZO9sKwWRtTbqQPfACK4BGAsYHg/s320/crop%2B%252843%2529.jpg"
-    },
-     {
-      "id":31,
-      "id_wall":"031",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-eYsG7I-F21k/XsZ9RTu01LI/AAAAAAAAAIU/Wh6BF-_VTyc4SVqSX4m3NX1j08J7n-YZgCK4BGAsYHg/s320/crop%2B%252842%2529.jpg"
-    },
-     {
-      "id":32,
-      "id_wall":"032",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-6wKfvPCt_iM/XsZ9Fd9kGPI/AAAAAAAAAIA/74xPUd2Sxh0Q1nCNFu5KuexZmlc-LeL_wCK4BGAsYHg/s320/crop%2B%252841%2529.jpg"
-    },
-     {
-      "id":33,
-      "id_wall":"033",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-6a8ZS6uOINs/XsZ-axvii0I/AAAAAAAAAKc/im7oJoEo3JkgcngAn2J6cBGF2JZVizSVQCK4BGAsYHg/s320/crop%2B%252854%2529.jpg"
-    },
-     {
-      "id":34,
-      "id_wall":"034",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/-9agq5E0k4QU/XsZ-RK9K7dI/AAAAAAAAAKM/Vh0g_z567jMp0biDD6NiRGG9oR51gLHZQCK4BGAsYHg/s320/crop%2B%252850%2529.jpg"
-    },
-     {
-      "id":35,
-      "id_wall":"035",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://1.bp.blogspot.com/--4dNfymEc68/XsZ96KeyxoI/AAAAAAAAAJg/xaD72SyBvccpz6erwksm2ZyWfjfMj-vhwCK4BGAsYHg/s320/crop%2B%252846%2529.jpg"
-    },
-     {
-      "id":36,
-      "id_wall":"036",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":37,
-      "id_wall":"037",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":38,
-      "id_wall":"038",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":39,
-      "id_wall":"039",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":40,
-      "id_wall":"040",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":41,
-      "id_wall":"041",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":42,
-      "id_wall":"042",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":43,
-      "id_wall":"043",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":44,
-      "id_wall":"044",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":45,
-      "id_wall":"045",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":46,
-      "id_wall":"046",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":47,
-      "id_wall":"047",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":48,
-      "id_wall":"048",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":49,
-      "id_wall":"049",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":50,
-      "id_wall":"050",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":51,
-      "id_wall":"051",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":52,
-      "id_wall":"052",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":53,
-      "id_wall":"053",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":54,
-      "id_wall":"054",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":55,
-      "id_wall":"055",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":56,
-      "id_wall":"056",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":57,
-      "id_wall":"057",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":58,
-      "id_wall":"058",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":59,
-      "id_wall":"059",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":60,
-      "id_wall":"060",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":61,
-      "id_wall":"061",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":62,
-      "id_wall":"062",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":63,
-      "id_wall":"063",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":64,
-      "id_wall":"064",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":65,
-      "id_wall":"065",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":66,
-      "id_wall":"066",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":67,
-      "id_wall":"067",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":68,
-      "id_wall":"068",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":69,
-      "id_wall":"069",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":70,
-      "id_wall":"070",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":71,
-      "id_wall":"071",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":72,
-      "id_wall":"072",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":73,
-      "id_wall":"073",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":74,
-      "id_wall":"074",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":75,
-      "id_wall":"075",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":76,
-      "id_wall":"076",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":77,
-      "id_wall":"077",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":78,
-      "id_wall":"078",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":79,
-      "id_wall":"079",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
-      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
-    },
-     {
-      "id":80,
-      "id_wall":"080",
-      "nama_cat": "akatsuki wallpaper",
-      "judul":"akatsuki wallpaper",
+      "nama_cat": "Naruto",
+      "judul":"Uchiha Itachi",
       "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
     }
 
