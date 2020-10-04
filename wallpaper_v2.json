@@ -1,0 +1,121 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+      
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "openads":"ca-app-pub-3940256099942544/1033173712",
+        "interval": 2,
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+
+        "inmobi_inter": 1476878485960,
+        "inmobi_banner":1473189489298,
+        "inmobi_id":"1234567890qwerty0987654321qwerty12345",
+        
+        "startaap":"1234567890",
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+
+        }
+    ],
+
+"More":
+  [ 
+    {
+    "id":1,
+    "judul":"Ludo King",
+    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+  },
+  {
+    "id":2,
+    "judul":"Homescapes",
+    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+  },
+  {
+    "id":3,
+    "judul":"Minecraft",
+    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+  }
+
+  ],
+  
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Dragon Ball",
+      "gambar": "https://www.mainmain.id/uploads/post/2019/04/27/Dragon_ball_Super_Z.jpg"
+     
+    },
+    {
+      "id": 2,
+      "nama_cat": "Naruto",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/dVqITqcu9gJfpnWOgPEaAfol0eM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/653825/original/naruto-anime-naruto-33923256-1920-1080.jpg"
+    
+    },
+    {
+      "id": 3,
+      "nama_cat": "One Piece",
+      "gambar": "https://cdn.idntimes.com/content-images/duniaku/post/20200404/one-piece-sanji-zoro-jinbe-4690e6c5f37b3a36951f5dfa8dfd30c3_600x400.jpg"
+    
+    }
+  ],
+
+  "Wallpaper":
+  [ 
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "One Piece",
+      "judul":"Roronoa Zoro",
+      "image":"https://i.pinimg.com/736x/65/c2/11/65c211c2e3d902c3293e3ad285a1eefb.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "One Piece",
+      "judul":"Jinbei",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ae01b20-3764-4fd7-91b0-57fd27d63bb5/dcx73le-c3f839c5-079a-4126-81e4-90d058d2e7fa.jpg/v1/fill/w_1024,h_1463,q_75,strp/jinbe_wci_card_by_leegrove_by_leegrove_dcx73le-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ2MyIsInBhdGgiOiJcL2ZcLzJhZTAxYjIwLTM3NjQtNGZkNy05MWIwLTU3ZmQyN2Q2M2JiNVwvZGN4NzNsZS1jM2Y4MzljNS0wNzlhLTQxMjYtODFlNC05MGQwNThkMmU3ZmEuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tV0sqADZP93bqyibM1wcxzenXvrOcPXoEpsCDpfYDDA"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Dragon Ball",
+      "judul":"Vegeta",
+      "image":"https://i.pinimg.com/564x/dc/c3/fa/dcc3fada941866ddc4b7e2ec5aa315f9.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Dragon Ball",
+      "judul":"Kamen Shenin",
+      "image":"https://i.pinimg.com/564x/fc/98/77/fc9877fedfdb69e449e7fd9aae1230e6.jpg"
+    }
+    
+    ,
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "One Piece",
+      "judul":"Shank",
+      "image":"https://static.zerochan.net/Shanks.full.1917475.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Naruto",
+      "judul":"Uchiha Itachi",
+      "image":"https://image.winudf.com/v2/image/Y29tLmFuZHJvbW8uZGV2NjYwNjE0LmFwcDcwNjI4NF9zY3JlZW5fNF8xNTEyMjQyOTgzXzAzNA/screen-4.jpg?fakeurl=1&type=.jpg"
+    }
+
+  ]
+}
