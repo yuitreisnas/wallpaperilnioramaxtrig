@@ -30,21 +30,64 @@
   [ 
     {
     "id":1,
-    "judul":"Ludo King",
-    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    "judul":"wallpaper Akatsuki",
+    "image":"https://1.bp.blogspot.com/-3nYo1CL7cww/X1Xqt5uBIAI/AAAAAAAAFfI/MPneilWjJ-I4_C_c1v5h-LuC5hqx4Lm4ACLcBGAsYHQ/s512/Icon%2BAndro.png",
+    "link":"https://play.google.com/store/apps/details?id=com."
   },
   {
     "id":2,
-    "judul":"Homescapes",
-    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    "judul":"Darkness Wallpaper",
+    "image":"https://1.bp.blogspot.com/-W9B7dH_jXfA/X1XqwYATPNI/AAAAAAAAFfM/wNxjsMpnjxckkoU4dbU8i9QjMVpa7lT5wCLcBGAsYHQ/s512/Icon-WP.png",
+    "link":"https://play.google.com/store/apps/details?id=com."
   },
   {
     "id":3,
-    "judul":"Minecraft",
-    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    "judul":"Wallpaper retak",
+    "image":"https://1.bp.blogspot.com/-0m_-e3-rszA/X1Xqyu9OFOI/AAAAAAAAFfQ/Y8Sn1C1ruAMT1VaSEcoxGlDgBW4XN3wzgCLcBGAsYHQ/s512/Icon-WP.png",
+    "link":"https://play.google.com/store/apps/details?id=com."
+  },
+  {
+    "id":4,
+    "judul":"Wallpaper FF Keren",
+    "image":"https://1.bp.blogspot.com/-ZgSUGkMwxbc/X2B7QHoPK1I/AAAAAAAAFgM/NStMtj7qkwY6UqzBvdSM5o4_Ix4MRldrACLcBGAsYHQ/s512/Icon-WP.png",
+    "link":"https://play.google.com/store/apps/details?id=com."
+  },
+  
+  {
+    "id":5,
+    "judul":" aesthetic wallpaper and lockscreen",
+    "image":"https://1.bp.blogspot.com/-sy2V1OV6q8A/X1Xq0jxX3MI/AAAAAAAAFfU/nDdPKgrvrswwg_25O5WPCtcrkV6s2ngtACLcBGAsYHQ/s512/Icon-WP.png",
+    "link":"https://play.google.com/store/apps/details?id=com."
+  },
+  {
+    "id":6,
+    "judul":"Wallpaper transparant",
+    "image":"https://1.bp.blogspot.com/-Kbc8dQNizJY/X1Xq3W7mPdI/AAAAAAAAFfY/vQd2BbnxXkQqMj_leijh2g4uz7VDrQ9pACLcBGAsYHQ/s512/Icon%2BWP.png",
+    "link":"https://play.google.com/store/apps/details?id=com."
+  },
+  {
+    "id":7,
+    "judul":"wallpaper rog",
+    "image":"https://1.bp.blogspot.com/-ER5lOCd2gjU/X2B6tRjYz8I/AAAAAAAAFf4/a9VcXLlBcaIOm4K4L45Hnd7-SVUX23ISwCLcBGAsYHQ/s512/Icon%2BWP.png",
+    "link":"https://play.google.com/store/apps/details?id=com."
+  },
+  {
+    "id":8,
+    "judul":"wallpaper black shark",
+    "image":"https://1.bp.blogspot.com/-MltMgeoMcjM/X2B7JEJ5iiI/AAAAAAAAFgA/KzRnD4Nw3WwZbuvm8si3x1tJ3vnixpdqQCLcBGAsYHQ/s512/Icon%2BWP.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com."
+  },
+  {
+    "id":9,
+    "judul":"wallpaper hd anime hot boy and aneme hot girl",
+    "image":"https://1.bp.blogspot.com/-yi7ZWhnz6dU/X2B7L4BDl-I/AAAAAAAAFgE/s2fi34g52fMYW6JEyVF4RI13xF8DQ45ggCLcBGAsYHQ/s512/Icon%2BWP.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com."
+  },
+  {
+    "id":10,
+    "judul":"4K Wallpaper android",
+    "image":"https://1.bp.blogspot.com/-EtXagh8DeeA/X2B7OKDQwPI/AAAAAAAAFgI/c0HLj6U1AqccG4Lctjfl07bEq0mEws2XgCLcBGAsYHQ/s512/Icon%2BWP.png",
+    "link":"https://play.google.com/store/apps/details?id=com."
   }
 
   ],
@@ -55,18 +98,6 @@
       "nama_cat": "wallpaper akatsuki",
       "gambar": "https://www.mainmain.id/uploads/post/2019/04/27/Dragon_ball_Super_Z.jpg"
      
-    },
-    {
-      "id": 2,
-      "nama_cat": "Naruto",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/dVqITqcu9gJfpnWOgPEaAfol0eM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/653825/original/naruto-anime-naruto-33923256-1920-1080.jpg"
-    
-    },
-    {
-      "id": 3,
-      "nama_cat": "One Piece",
-      "gambar": "https://cdn.idntimes.com/content-images/duniaku/post/20200404/one-piece-sanji-zoro-jinbe-4690e6c5f37b3a36951f5dfa8dfd30c3_600x400.jpg"
-    
     }
   ],
 
