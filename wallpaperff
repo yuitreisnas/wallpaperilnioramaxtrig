@@ -1,0 +1,26 @@
+{
+  "username": "wejiy81459",
+  "album": [
+    "wallpaper ff"
+  ],
+  "init_jumlah_photo": 50,
+  "pub_id": "pub-1430486297354407",
+  "app_id": "ca-app-pub-1430486297354407~2798331846",
+  "admob_banner_id": "ca-app-pub-1430486297354407/2268365721",
+  "admob_interstitial_id": "ca-app-pub-1430486297354407/7883137569",
+  "admob_native_id": "ca-app-pub-1430486297354407/9516300353",
+
+  "admob_hpk_1": "crypto",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "492061184855959_580564349338975",
+  "fan_interstitial_id": "492061184855959_534746480587429",
+  "fan_native_id": "492061184855959_492062094855868",
+
+  "interstitial_inverval": 4,
+
+  "primary_ads": "ADMOB"
+}
