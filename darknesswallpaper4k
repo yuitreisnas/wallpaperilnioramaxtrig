@@ -3,14 +3,14 @@
         "status": "0",
         "link": "",
       
-        "interid": "ca-app-pub-1430486297354407/7883137569",
-        "nativeid": "ca-app-pub-1430486297354407/9516300353",
-        "openads":"ca-app-pub-1430486297354407/8740089519",
+        "interid": "",
+        "nativeid": "",
+        "openads":"",
         "interval": 2,
         "pengaturan_iklan":"1",
         
-        "fan_inter":"981545408591412_999151030164183",
-        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_inter":"",
+        "fan_banner_native":"",
 
         "inmobi_inter": 1476878485960,
         "inmobi_banner":1473189489298,
