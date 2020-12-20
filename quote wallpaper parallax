@@ -1,0 +1,35 @@
+{
+  "username": "Andiramaki",
+  "album": [
+    "life Quote", "study quote", "fitnes quote"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-1430486297354407",
+  "app_id": "ca-app-pub-1430486297354407~8873700271",
+  "admob_banner_id": "ca-app-pub-1430486297354407/7369046919",
+  "admob_interstitial_id": "ca-app-pub-1430486297354407/6612344923",
+  "admob_native_id": "ca-app-pub-1430486297354407/6648003941",
+
+  "admob_hpk_1": "crypto",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "492061184855959_580564349338975",
+  "fan_interstitial_id": "492061184855959_534746480587429",
+  "fan_native_id": "492061184855959_492062094855868",
+
+  "mopub_banner_id": "83c7eb170c8644be9581066c87754398",
+  "mopub_interstitial_id": "6a6b1768f4b34187a6186e3ab21d96a2",
+  "mopub_native_id": "77a8c6fb922043468753d202e24bbcfb",
+
+  "interstitial_inverval": 4,
+
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "MOPUB",
+    "ADMOB",
+    "FAN"
+  ]
+}
