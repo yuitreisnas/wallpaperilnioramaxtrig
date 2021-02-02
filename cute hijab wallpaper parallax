@@ -4,11 +4,14 @@
     "cute hijab wallpaper"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-7659212157573907",
-  "app_id": "ca-app-pub-7659212157573907~7654867818",
-  "admob_banner_id": "ca-app-pub-7659212157573907/2222400122",
-  "admob_interstitial_id": "ca-app-pub-7659212157573907/9505977861",
-  "admob_native_id": "ca-app-pub-7659212157573907/9434853343",
+  
+  "pub_id": "pub-6230199240891395",
+  "app_id": "ca-app-pub-6230199240891395~2981881201",
+  "admob_banner_id": "ca-app-pub-6230199240891395/7659492811",
+  "admob_interstitial_id": "ca-app-pub-6230199240891395/2405142615",
+  "admob_native_id": "ca-app-pub-6230199240891395/2097827337",
+  
+  
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -24,7 +27,7 @@
   "mopub_interstitial_id": "",
   "mopub_native_id": "",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 4,
 
   "primary_ads": "ADMOB",
   "list_ads": [
