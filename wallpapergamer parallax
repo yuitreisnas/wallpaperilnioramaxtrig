@@ -1,7 +1,7 @@
 {
-  "username": "andimarsa90",
+  "username": "govibi2038",
   "album": [
-    "Gamer", "street fighter", "call of duty", "PUBG"
+    "wallpaper gamer"
   ],
   "init_jumlah_photo": 100,
   "pub_id": "pub-6230199240891395",
@@ -10,11 +10,11 @@
   "admob_interstitial_id": "ca-app-pub-6230199240891395/2405142615",
   "admob_native_id": "ca-app-pub-6230199240891395/2097827337",
 
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
 
   "fan_banner_id": "",
   "fan_interstitial_id": "",
@@ -24,7 +24,7 @@
   "mopub_interstitial_id": "",
   "mopub_native_id": "",
 
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB",
   "list_ads": [
