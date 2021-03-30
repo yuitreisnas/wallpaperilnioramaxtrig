@@ -1,0 +1,32 @@
+{
+  "username": "gicemoc100",
+  "album": [
+    "sukuna", "Jujutsu Kaisen", "gojo satoru"
+  ],
+  "init_jumlah_photo": 50,
+  "pub_id": "pub-6231448703309615",
+  "app_id": "ca-app-pub-6231448703309615~1122268921",
+  "admob_banner_id": "ca-app-pub-6231448703309615/3870338300",
+  "admob_interstitial_id": "ca-app-pub-6231448703309615/8931093291",
+  "admob_native_id": "ca-app-pub-6231448703309615/5798389849",
+
+  "admob_hpk_1": "crypto",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "startapp_app_id": "202808476",
+
+  "interstitial_inverval": 10,
+
+  "list_ads": [
+    "STARTAPP",
+    "ADMOB",
+    "FAN"
+  ]
+}
