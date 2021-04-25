@@ -3,11 +3,13 @@
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.wallpaperakatsuki",
       
-        "interid": "ca-app-pub-6231448703309615/9186180526",
-        "nativeid": "ca-app-pub-6231448703309615/2557192993",
-        "openads":"ca-app-pub-6231448703309615/1244111325",
-        "interval": 5,
+        "interid": "ca-app-pub-6231448703309615/9718484792",
+        "nativeid": "ca-app-pub-6231448703309615/8405403123",
+        "openads":"ca-app-pub-6231448703309615/6900749767",
+        "interval": 7,
         "pengaturan_iklan":"1",
+        
+
         
         "fan_inter":"981545408591412_999151030164183",
         "fan_banner_native":"981545408591412_2709037092508893",
@@ -16,7 +18,7 @@
         "inmobi_banner":1473189489298,
         "inmobi_id":"1234567890qwerty0987654321qwerty12345",
         
-        "startaap":"1234567890",
+        "startaap":"202568739",
         "hpk_admob1":"",
         "hpk_admob2":"",
         "hpk_admob3":"",
