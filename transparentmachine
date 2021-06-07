@@ -5,23 +5,31 @@
   ],
   "init_jumlah_photo": 50,
   
-  "pub_id": "pub-6231448703309615",
-  "app_id": "ca-app-pub-6231448703309615~4334498461",
-  "admob_banner_id": "ca-app-pub-7659212157573907/8373046280",
-  "admob_interstitial_id": "ca-app-pub-7659212157573907/7396868351",
-  "admob_native_id": "ca-app-pub-7659212157573907/8101583543",
+  
+  "pub_id": "pub-1516992373545566",
+  "app_id": "ca-app-pub-1516992373545566~5584338637",
+  "admob_banner_id": "ca-app-pub-1516992373545566/2482451009",
+  "admob_interstitial_id": "ca-app-pub-1516992373545566/2958175299",
+  "admob_native_id": "ca-app-pub-1516992373545566/3948603582",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
   "admob_hpk_3": "plastic surgery",
   "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
+  "admob_hpk_5": "insurance",  
+  "admob_hpk_1": "mesothelioma claims process ",
+  "admob_hpk_2": "motorcycle personal injury lawyer",
+  "admob_hpk_3": "injury atty",
+  "admob_hpk_4": "fort lauderdale accident attorney",
+  "admob_hpk_5": "auto insurance companies",
+  "admob_hpk_6": "digital marketing certificate programs online",
+  "admob_hpk_7": "bitcoin merchant account",
 
   "fan_banner_id": "492061184855959_580564349338975",
   "fan_interstitial_id": "492061184855959_534746480587429",
   "fan_native_id": "492061184855959_492062094855868",
 
-  "interstitial_inverval": 7,
+  "interstitial_inverval": 12,
 
   "primary_ads": "ADMOB"
 }
