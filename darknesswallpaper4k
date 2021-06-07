@@ -2,28 +2,33 @@
         {
         "status": "0",
         "link": "",
-      
-        "interid": "",
-        "nativeid": "",
-        "openads":"",
-        "interval": 7,
+        
+        
+        "interid": "ca-app-pub-1516992373545566/2958175299",
+        "nativeid": "ca-app-pub-1516992373545566/3948603582",
+        "openads":"ca-app-pub-1516992373545566/3948603582",
+        
+        "interval": 10,
         "pengaturan_iklan":"1",
         
+
         
-        
-        "fan_inter":"",
-        "fan_banner_native":"",
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
 
         "inmobi_inter": 1476878485960,
         "inmobi_banner":1473189489298,
         "inmobi_id":"1234567890qwerty0987654321qwerty12345",
         
-        "startaap":"1234567890",
-        "hpk_admob1":"",
-        "hpk_admob2":"",
-        "hpk_admob3":"",
-        "hpk_admob4":"",
-        "hpk_admob5":""
+        "startaap":"202568739",
+      "admob_hpk_1": "mesothelioma claims process ",
+  "admob_hpk_2": "motorcycle personal injury lawyer",
+  "admob_hpk_3": "injury atty",
+  "admob_hpk_4": "fort lauderdale accident attorney",
+  "admob_hpk_5": "auto insurance companies",
+  "admob_hpk_6": "digital marketing certificate programs online",
+  "admob_hpk_7": "bitcoin merchant account",
+
 
         }
     ],
