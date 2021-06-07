@@ -3,11 +3,11 @@
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=com.ilnioramaxtrig.wallpaperakatsuki",
         
-       "interid": "ca-app-pub-7659212157573907/2797285979",
-        "nativeid": "ca-app-pub-7659212157573907/7588440049",
-        "openads":"ca-app-pub-7659212157573907/8901521710",
+       "interid": "ca-app-pub-1516992373545566/2958175299",
+        "nativeid": "ca-app-pub-1516992373545566/3948603582",
+        "openads":"ca-app-pub-1516992373545566/3948603582",
         
-        "interval": 7,
+        "interval": 10,
         "pengaturan_iklan":"1",
         
 
@@ -20,11 +20,13 @@
         "inmobi_id":"1234567890qwerty0987654321qwerty12345",
         
         "startaap":"202568739",
-        "hpk_admob1":"",
-        "hpk_admob2":"",
-        "hpk_admob3":"",
-        "hpk_admob4":"",
-        "hpk_admob5":""
+      "admob_hpk_1": "mesothelioma claims process ",
+  "admob_hpk_2": "motorcycle personal injury lawyer",
+  "admob_hpk_3": "injury atty",
+  "admob_hpk_4": "fort lauderdale accident attorney",
+  "admob_hpk_5": "auto insurance companies",
+  "admob_hpk_6": "digital marketing certificate programs online",
+  "admob_hpk_7": "bitcoin merchant account",
 
         }
     ],
