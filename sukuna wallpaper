@@ -7,7 +7,7 @@
   
   "pub_id": "pub-6230199240891395",
   "app_id": "ca-app-pub-6230199240891395/4988351923",
-  "admob_banner_id": "ca-app-pub-1501302025521240/7872891369",
+  "admob_banner_id": "ca-app-pub-6230199240891395~7614515269",
   "admob_interstitial_id": "ca-app-pub-6230199240891395/2362188586",
   "admob_native_id": "ca-app-pub-6230199240891395/8408722184",
 
@@ -30,7 +30,7 @@
 
   "startapp_app_id": "202808476",
 
-  "interstitial_inverval": 12,
+  "interstitial_inverval": 14,
 
   "list_ads": [
     "STARTAPP",
