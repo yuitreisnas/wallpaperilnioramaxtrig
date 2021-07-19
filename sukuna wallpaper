@@ -30,7 +30,7 @@
 
   "startapp_app_id": "202808476",
 
-  "interstitial_inverval": 14,
+  "interstitial_inverval": 10,
 
   "list_ads": [
     "STARTAPP",
