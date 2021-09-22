@@ -56,8 +56,8 @@
   "interstitial_inverval": 10,
 
   "list_ads": [
-    "STARTAPP",
     "ADMOB",
+    "STARTAPP",
     "FAN"
   ]
 }
