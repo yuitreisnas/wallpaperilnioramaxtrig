@@ -3,12 +3,12 @@
   "album": [
     "naruto", "sasuke", "sakura", "boruto"
   ],
-  "init_jumlah_photo": 50,
-  "pub_id": "pub-3840149153676430",
-  "app_id": "ca-app-pub-3840149153676430~2308166898",
-  "admob_banner_id": "ca-app-pub-3840149153676430/4582976447",
-  "admob_interstitial_id": "ca-app-pub-3840149153676430/9995085221",
-  "admob_native_id": "ca-app-pub-3840149153676430/3269894779",
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-7659212157573907",
+  "app_id": "ca-app-pub-7659212157573907~5881338568",
+  "admob_banner_id": "ca-app-pub-7659212157573907/3857826363",
+  "admob_interstitial_id": "ca-app-pub-7659212157573907/3539096319",
+  "admob_native_id": "ca-app-pub-7659212157573907/5505934040",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -52,7 +52,7 @@
 
   "startapp_app_id": "202914488",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 11,
 
   "list_ads": [
     "ADMOB",
