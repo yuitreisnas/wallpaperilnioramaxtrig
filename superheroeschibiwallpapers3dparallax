@@ -6,11 +6,11 @@
   "init_jumlah_photo": 50,
  
  
- "pub_id": "pub-9067857494494316",
-  "app_id": "ca-app-pub-9067857494494316~6031777147",
-  "admob_banner_id": "ca-app-pub-9067857494494316/3918934912",
-  "admob_interstitial_id": "ca-app-pub-9067857494494316/3405613806",
-  "admob_native_id": "ca-app-pub-9067857494494316/2391915034",
+ "pub_id": "pub-9888537059700067",
+  "app_id": "ca-app-pub-9888537059700067~5720145320",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "ca-app-pub-9888537059700067/3416242158",
+  "admob_native_id": "ca-app-pub-9888537059700067/8154736972",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -24,6 +24,29 @@
   "admob_hpk_5": "auto insurance companies",
   "admob_hpk_6": "digital marketing certificate programs online",
   "admob_hpk_7": "bitcoin merchant account",
+  "admob_hpk_8": "law degree online",
+  "admob_hpk_9": "insurance car",
+  "admob_hpk_10": "insurance quotes online",
+  "admob_hpk_11": "insurance quotes texas",
+  "admob_hpk_12": "insurance policy for car",
+  "admob_hpk_13": "insurance online",
+  "admob_hpk_14": "insurance quotes florida",
+  "admob_hpk_15": "insurance yuma az",
+  "admob_hpk_16": "insurance rates",
+  "admob_hpk_17": "insurance quotes comparison",
+  "admob_hpk_18": "credit life insurance",
+  "admob_hpk_19": "how many insurance companies are there",
+  "admob_hpk_20": "insurance quotation",
+  "admob_hpk_21": "crypto x wattson",
+  "admob_hpk_22": "car insurance",
+  "admob_hpk_23": "car quotes",
+  "admob_hpk_24": "loans receivable",
+  "admob_hpk_25": "loans to pay off debt",
+  "admob_hpk_26": "mortgage quote",
+  "admob_hpk_27": "attorney ken nugent",
+  "admob_hpk_28": "attorney big al",
+  "admob_hpk_29": "attorney near me car accident",
+  "admob_hpk_30": "attorney define",
 
   "fan_banner_id": "",
   "fan_interstitial_id": "",
@@ -31,7 +54,7 @@
 
   "startapp_app_id": "202403805",
 
-  "interstitial_inverval": 11,
+  "interstitial_inverval": 8,
 
   "list_ads": [
     "STARTAPP",
