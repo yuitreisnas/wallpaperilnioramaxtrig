@@ -6,11 +6,11 @@
   "init_jumlah_photo": 50,
   
   
- "pub_id": "pub-9067857494494316",
-  "app_id": "ca-app-pub-9067857494494316~4551174515",
-  "admob_banner_id": "ca-app-pub-9067857494494316/5672684497",
-  "admob_interstitial_id": "ca-app-pub-9067857494494316/2653954707",
-  "admob_native_id": "ca-app-pub-9067857494494316/6130165285",
+ "pub_id": "pub-9888537059700067",
+  "app_id": "ca-app-pub-9888537059700067~6972343789",
+  "admob_banner_id": "ca-app-pub",
+  "admob_interstitial_id": "ca-app-pub-9888537059700067/7521996365",
+  "admob_native_id": "ca-app-pub-9888537059700067/4346180443",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -52,7 +52,7 @@
   "fan_interstitial_id": "492061184855959_534746480587429",
   "fan_native_id": "492061184855959_492062094855868",
 
-  "interstitial_inverval": 11,
+  "interstitial_inverval": 7,
 
   "primary_ads": "ADMOB"
 }
