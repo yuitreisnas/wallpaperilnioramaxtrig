@@ -53,7 +53,7 @@
 
   "startapp_app_id": "202568739",
 
-  "interstitial_inverval": 7,
+  "interstitial_inverval": 5,
 
   "list_ads": [
     "ADMOB",
