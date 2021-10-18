@@ -53,7 +53,7 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "interstitial_inverval": 8,
+  "interstitial_inverval": 5,
 
   "primary_ads": "ADMOB"
 }
