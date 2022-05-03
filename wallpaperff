@@ -49,10 +49,7 @@
 
   "startapp_app_id": "202914488",
 
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
-
+ 
   "interstitial_inverval": 3,
 
   "primary_ads": "ADMOB",
