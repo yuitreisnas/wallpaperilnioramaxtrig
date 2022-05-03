@@ -10,11 +10,6 @@
   "admob_interstitial_id": "",
   "admob_native_id": "ca-app-pub-9888537059700067/6513825586",
 
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",  
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
   "admob_hpk_3": "injury atty",
@@ -52,8 +47,13 @@
 
   "startapp_app_id": "202914488",
 
-  "interstitial_inverval": 15,
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
 
+  "interstitial_inverval": 10,
+
+  "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
     "STARTAPP",
