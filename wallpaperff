@@ -3,21 +3,15 @@
   "album": [
     "Freefire", "Ronaldo", "dj alok", "Skyler", "shirou", "D-bee", "maro", "Xayne", "Dasha", "K", "Jai", "Luqueta", "Kelly", "Hayato Yagami", "Moco", "Steffie", "Misha", "Maxim", "Andrew", "Caroline", "Rafael", "Jota", "Clu"
   ],
-  
-  "init_jumlah_photo": 100,  
-  
-  
- "pub_id": "pub-9888537059700067",
+
+  "init_jumlah_photo": 100,
+
+  "pub_id": "pub-9888537059700067",
   "app_id": "ca-app-pub-9888537059700067~2882536488",
   "admob_banner_id": "ca-app-pub-9888537059700067/7864790451",
   "admob_interstitial_id": "",
   "admob_native_id": "ca-app-pub-9888537059700067/5027491707",
 
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",  
   "admob_hpk_1": "mesothelioma claims process ",
   "admob_hpk_2": "motorcycle personal injury lawyer",
   "admob_hpk_3": "injury atty",
@@ -49,11 +43,22 @@
   "admob_hpk_29": "attorney near me car accident",
   "admob_hpk_30": "attorney define",
 
-  "fan_banner_id": "492061184855959_580564349338975",
-  "fan_interstitial_id": "492061184855959_534746480587429",
-  "fan_native_id": "492061184855959_492062094855868",
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "startapp_app_id": "202914488",
+
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
 
   "interstitial_inverval": 3,
 
-  "primary_ads": "ADMOB"
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB",
+    "STARTAPP",
+    "FAN"
+  ]
 }
