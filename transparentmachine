@@ -1,16 +1,15 @@
 {
-  "username": "panece",
+  "username": "yisnas",
   "album": [
-    "transparent machine"
+    "machine"
   ],
-  "init_jumlah_photo": 50,
-  
-  
- "pub_id": "pub-9888537059700067",
-  "app_id": "ca-app-pub-9888537059700067~6972343789",
-  "admob_banner_id": "ca-app-pub",
+  "init_jumlah_photo": 100,
+  "admob_banner_id": "",
   "admob_interstitial_id": "ca-app-pub-9888537059700067/7521996365",
   "admob_native_id": "ca-app-pub-9888537059700067/4346180443",
+  "admob_rewarded_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -48,11 +47,14 @@
   "admob_hpk_29": "attorney near me car accident",
   "admob_hpk_30": "attorney define",
 
-  "fan_banner_id": "492061184855959_580564349338975",
-  "fan_interstitial_id": "492061184855959_534746480587429",
-  "fan_native_id": "492061184855959_492062094855868",
-
-  "interstitial_inverval": 3,
-
-  "primary_ads": "ADMOB"
+"startapp_app_id": "",
+  "unity_id": "4538667",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 10,
+  "list_ads": [
+    "ADMOB",
+    "STARTAPP",
+    "UNITY"
+  ]
 }
