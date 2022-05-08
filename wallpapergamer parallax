@@ -1,43 +1,40 @@
 {
-  "username": "govibi2038",
+  "username": "yisnas",
   "album": [
-    "wallpaper gamer", "PUBG", "COD", "ML"
+    "pubg"
   ],
   "init_jumlah_photo": 100,
-  
- "pub_id": "pub-9888537059700067",
-  "app_id": "ca-app-pub-9888537059700067~1528445418",
   "admob_banner_id": "",
   "admob_interstitial_id": "ca-app-pub-9888537059700067/9084675260",
   "admob_native_id": "ca-app-pub-9888537059700067/9215363743",
+  "admob_rewarded_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
   "admob_hpk_3": "plastic surgery",
   "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",  
-  "admob_hpk_1": "mesothelioma claims process ",
-  "admob_hpk_2": "motorcycle personal injury lawyer",
-  "admob_hpk_3": "injury atty",
-  "admob_hpk_4": "fort lauderdale accident attorney",
-  "admob_hpk_5": "auto insurance companies",
-  "admob_hpk_6": "digital marketing certificate programs online",
-  "admob_hpk_7": "bitcoin merchant account",
+  "admob_hpk_5": "insurance",
+  "admob_hpk_6": "mesothelioma claims process ",
+  "admob_hpk_7": "motorcycle personal injury lawyer",
+  "admob_hpk_8": "injury atty",
+  "admob_hpk_9": "fort lauderdale accident attorney",
+  "admob_hpk_10": "auto insurance companies",
+  "admob_hpk_11": "digital marketing certificate programs online",
+  "admob_hpk_12": "bitcoin merchant account",
 
-  "fan_banner_id": "",
-  "fan_interstitial_id": "",
-  "fan_native_id": "",
 
-  "mopub_banner_id": "",
-  "mopub_interstitial_id": "",
-  "mopub_native_id": "",
+  "startapp_app_id": "",
 
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
   "interstitial_inverval": 10,
-
-  "primary_ads": "ADMOB",
   "list_ads": [
-    "MOPUB",
     "ADMOB",
-    "FAN"
+    "STARTAPP",
+    "UNITY"
+    
   ]
 }
