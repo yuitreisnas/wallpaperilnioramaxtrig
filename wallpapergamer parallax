@@ -4,12 +4,11 @@
     "pubg"
   ],
   "init_jumlah_photo": 100,
+ "pub_id": "",
+  "app_id": "",
   "admob_banner_id": "",
-  "admob_interstitial_id": "ca-app-pub-9888537059700067/9084675260",
-  "admob_native_id": "ca-app-pub-9888537059700067/9215363743",
-  "admob_rewarded_id": "",
-  "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
