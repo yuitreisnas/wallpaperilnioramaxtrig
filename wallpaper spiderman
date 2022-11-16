@@ -5,12 +5,13 @@
   ],
   "init_jumlah_photo": 100,
  
- "pub_id": "pub-9888537059700067",
-  "app_id": "ca-app-pub-9888537059700067~1184465529",
-  "admob_banner_id": "ca-app-pub-9888537059700067/9561015503",
-  "admob_interstitial_id": "ca-app-pub-9888537059700067/5620719773",
-  "admob_native_id": "ca-app-pub-9888537059700067/3110106509",
-
+ "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
+  "admob_native_id": "",
+  
+  
 "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
   "admob_hpk_3": "plastic surgery",
